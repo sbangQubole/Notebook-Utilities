@@ -27,6 +27,7 @@ Optionally –
 * Export ETL development done via Notebooks to run via Spark Submit command.
 * Share reusable code via a notebook (Python & R). Export the code to ".py" or ".r" file and then use sc.addPyFile("cloud_storage_path_of_exported_code_file") or sc.addFile("cloud_storage_path_of_exported_code_file") respectively to import code in other notebooks.
 * To perform code comparisons.
+* Include code as part of CI/CD pipelines.
 
 
 # Notebook Arguments –
