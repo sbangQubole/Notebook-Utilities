@@ -42,11 +42,19 @@ Notebook takes in 6 arguments:
 
 # Demo Run -
 
-**Python - **
+
+### Python - 
+
 ![](PySparkExportCode.gif)
 
-**Scala - **
+
+
+### Scala - 
+
 ![](ScalaExportCode.gif)
 
-**R - **
+
+
+### R - 
+
 ![](RExportCode.gif)
