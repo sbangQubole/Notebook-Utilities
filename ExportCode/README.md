@@ -1,7 +1,7 @@
 
 # What is the purpose of this utility?
 
-The “Export Notebook Code” notebook exports code from a notebook. The notebook needs to imported and run on a live cluster. The notebook takes in different arguments. Arguments are documented below.  Utility skips exporting context for following interpreters [ %angular, %dep, %md, %sh, %knitr, %spark.knitr, %spark.sql and %sql ]. For spark 2.0 and above.
+The “Export Notebook Code” notebook exports code from other quoble notebook. The notebook needs to imported and run on a live cluster. The notebook takes in different arguments. Arguments are documented below.  Utility skips exporting context for following interpreters [ %angular, %dep, %md, %sh, %knitr, %spark.knitr, %spark.sql and %sql ]. For spark 2.0 and above.
 
 
 
