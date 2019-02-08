@@ -13,7 +13,7 @@ It performs the following tasks -
 Optionally –
 * It can save the file on cloud storage
 * It can add spark session to exported code by using the information from the interpreters
-* It can generate spark submit to run the exported code via Qubole Analyze for Python & R
+* It can generate spark submit to run the exported code via Qubole Analyze
 
 
 # Any Limitations?
