@@ -12,7 +12,7 @@ A common requirement where if a table name changes and its required to figure ou
 * Ability to search multiple text and\or patterns (regex - https://www.tutorialspoint.com/python/python_reg_expressions.htm)
 * Ability to filter particular users
 * Supports case sensitive searches
-* Works across all clouds
+
 
 # Prerequisites -
 Pandas Library (pip install pandas)
