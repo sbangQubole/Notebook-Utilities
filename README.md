@@ -5,5 +5,5 @@ Export code within nodebook to a file to run via spark submit , share reusable c
 More Details - https://github.com/sbangQubole/Notebook-Utilities/blob/master/ExportCode/README.md
 
 ## 2. Search - 
-Search text or pattern across all notebooks within an Qubole Account. 
+Search text or pattern across all notebooks within a Qubole Account. 
 More Details - https://github.com/sbangQubole/Notebook-Utilities/blob/master/Search/README.md
